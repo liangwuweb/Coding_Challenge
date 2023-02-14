@@ -1,19 +1,15 @@
 # Foxconn iAI Frontend Engineer Interview
 
+## Candidate: Liang Wu
+
+## PLease use npm to install and run the project. Use yarn might cause a compatible issue.
+
 ## Project setup
-```
-yarn install
-```
-or
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn serve
-```
-or
 ```
 npm run serve
 ```
